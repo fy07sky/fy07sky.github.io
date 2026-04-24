@@ -1,0 +1,38 @@
+.bg-primary{
+    background-color:#0090c4 !important;
+    background-image:url("concreat-wall-2.png");
+}
+
+.social-icons .social-icon:hover{
+    background-color: bisque;
+}
+
+.text-primary{
+    color: #95bfe3 !important;
+}
+
+a{
+    color: rgb(30, 30, 101);
+}
+
+h6, .h6, h5, .h5, h4, .h4, h3, .h3, h2 ,.h2, h1, .h1{
+    font-style:normal;
+} 
+h1, .h1{
+    font-weight: 600;
+}
+
+h2, .h2{
+    font-weight: 400;
+}
+
+.subheading{
+    font-family:"Noto Sans TC", sans-serif;
+    font-weight: 300;
+    text-transform: none;
+}
+
+img{
+    width: 200px;
+    height:auto;
+}
